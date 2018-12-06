@@ -15,3 +15,9 @@ ul{
   font-family:"Iskoola Pota"
     
 }
+
+body{border-style:dotted;}
+
+hr{color: green;}
+
+table{background-color:black;color:red;font-family: Arial;}
